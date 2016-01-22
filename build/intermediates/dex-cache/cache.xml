@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\classes-8dbfae304a41cb99d273aba5fe7367329082e847.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\classes-318d45ec0435dcaec6d57468ae00336f2f2a033c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-f98d6fd57e4d173b549b48c22fc7875316548438.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\classes-2870712a81b40b8fbdf96c05fa7262b4b1736c75.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\classes-6f667251d7b31063ada6d485b7256378b6fe809f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\classes-758020023967b7d199056e2cd3e0a80a1cfa7ae2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\classes-8bf2c48d3ab6d030b4a86e080fe8e6c8d63b9074.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\classes-64eedd872bf4abdd8a088b82c8cc38bd633ccaf4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\classes-9a9a2fea994c575fa2009d70cb01b8537f9c5474.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\classes-2bd48de65504016739ca564d52204d1415e63797.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\classes-69516cd366795621119727e71b8e89a715296314.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\classes-1d199d7e689cb50acba7d29f28b092e2448a0a59.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\classes-408384a3d10f034f560bea054afdcc2b6a4cda69.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\classes-d0db304274d5a985b3740900c3127ebc4c23f4f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.hamweather\aeris-maps-library\1.1.1\jars\libs\picasso-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="74137f8d9aac26dd9463efe32271f2be8d41cda9">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\picasso-2.2.0-e8bd7c912cf45cecbbaa058054c89eeb4873c3ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\classes-0874e108e45e8ea8179518918a1a68baf2bd7eae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\classes-030c7598961c213ace2a5709bcb0e85e2f7a18a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\classes-95385b550883fd30c497b56443effc77f8ae3174.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\classes-a4847c20a17c1817d1cf8ed2ce774f6f37420f5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\classes-9661ec87661e4ea0b5636a2be46c9434a6070fa0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\classes-e541db7f8928fa487fccbe97b5ab7192bf98e3ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.hamweather\aeris-maps-library\1.1.1\jars\libs\aeris-android-library-1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="184d478bfd1597cacbec408b7f4c1ed8aa5123e3">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\aeris-android-library-1.1-41f5ca97c3a7c5bec57756c18f4e32f0266e97ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-948f85ea54c2434ca767e2e1826b36c2fee6a5ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.hamweather\aeris-maps-library\1.1.1\jars\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\gson-2.2.4-99aa9455feff7cad603f843ccb7a40cace1f7787.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\classes-8e85c7893116f61d396f4dff5856e5d448efb442.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-b298f45740ea42c99523cc1a5dec23c9ca27d8c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\classes-5afc8038bac252dfe904afabe9d77fb4f201fa56.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\classes-ad2e150f13598f65c91e02954f069a7d5d3233e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\classes-d2a14770edf5567b0eed8c14fcf593d546db5a06.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.hamweather\aeris-maps-library\1.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0f9397e5c217cec76b6057357be15dabfd27a46d">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\classes-9651904053d800fe71aaca3523468bd59489c9ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\classes-395d99e6e01149778f4e6d9a5857b6d29ba31f6d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\classes-e6df1121a9c1f21c41df7c860fa2fa08eec9b3f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Soumya\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\Soumya\AndroidStudioProjects\WeatherForecast\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-87b5b0c6a6f08e3f41f867682efbffc5fdb007e7.jar" />
+    </item>
+
+</items>
